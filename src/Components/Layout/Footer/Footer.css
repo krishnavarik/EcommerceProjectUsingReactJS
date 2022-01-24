@@ -1,0 +1,23 @@
+.footerBody{
+    display: flex;
+   margin-top: 40px;
+   padding: 20px;
+   background: #56CCF2;
+}
+
+.footerBody h2{
+   text-align: center;
+   color: white;
+   width: 50%;
+   font-size: 50px;
+   font-weight: bold;
+   margin: 0 auto;
+   font-family: 'Metal Mania';
+}
+
+footer {
+   clear: both;
+   position: relative;
+   height: 200px;
+   margin-top: -200px;
+}
