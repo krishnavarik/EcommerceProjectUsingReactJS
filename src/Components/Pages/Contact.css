@@ -1,0 +1,18 @@
+.contactBody {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.contactForm {
+  max-width: 80%;
+  width: 900px;
+  text-align: center;
+  margin-top: 4%;
+  display: block;
+  margin-left: 2%;
+  padding: 1%;
+}
+
+.contactBtn {
+  margin-top: 1%;
+}
